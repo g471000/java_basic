@@ -5,6 +5,5 @@ public class CastingEx1 {
 
         System.out.println("score = " + score);
         System.out.println("d = " + d);
-
     }
 }
